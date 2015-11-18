@@ -1,0 +1,23 @@
+name: WAV
+favicon: null
+layout_spectrum: 0.36909657064825296
+typography_spectrum: 0.23306066822260618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5796284284442663
+  lightness: 0.758771643275395
+  saturation: 0.43973698653280735
+  rhythmicContrast: 0.037645597010850906
+purpose: []
