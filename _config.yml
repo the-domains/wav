@@ -1,20 +1,4 @@
-name: WAV
-favicon: null
-layout_spectrum: 0.89529
-typography_spectrum: 1
-title: Green Wave Consulting
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#a9bad8'
   brandStrength: 0.6875
   lightness: 0.5625
-  saturation: 0.5625
   rhythmicContrast: 0
+  saturation: 0.5625
+cta: {}
+layout_spectrum: 1
+name: WAV
+opengraph: {}
 purpose: []
+typography_spectrum: 1
