@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-23T16:34:16.553Z'
-dateModified: '2015-11-23T16:33:58.524Z'
+datePublished: '2015-11-23T16:35:25.506Z'
+dateModified: '2015-11-23T16:34:16.553Z'
 title: Business strategy
 author: []
 authors: []
