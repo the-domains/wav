@@ -4,7 +4,7 @@
         <description><![CDATA[WAV]]></description>
         <link>https://thegrid.ai/wav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 16:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 16:37:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Business strategy]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/wav/who-we-are/index.html</link>
             <guid isPermaLink="false">51b943f0-a29d-40be-b67d-f3179191f328</guid>
             <pubDate>Wed, 18 Nov 2015 17:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corporate Advisory]]></title>
+            <description><![CDATA[<article><h1>Corporate Advisory</h1><p>Massive business change. Business disputes. Key technology and sourcing decisions. Operational complexity. System integration. Regulatory inquiries.  Regulatory compliance. Operational efficiency.</p></article>]]></description>
+            <link>https://thegrid.ai/wav/corporate-advisory/index.html</link>
+            <guid isPermaLink="false">d0173210-4b1a-4c29-b06a-3825de17afc5</guid>
+            <pubDate>Mon, 23 Nov 2015 16:37:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
