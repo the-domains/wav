@@ -6,10 +6,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'These are uncertain times—fluid at best, turbulent too often. Yes, there are wonderful opportunities at home and abroad for smart and well-informed companies; b'
-datePublished: '2015-11-23T19:05:55.170Z'
-dateModified: '2015-11-23T19:05:52.314Z'
+datePublished: '2015-11-23T19:10:42.779Z'
+dateModified: '2015-11-23T19:10:35.726Z'
 author: []
-title: Corporate Structuring
+title: Structure
 sourcePath: _posts/2015-11-23-corporate-structuring.md
 published: true
 authors: []
