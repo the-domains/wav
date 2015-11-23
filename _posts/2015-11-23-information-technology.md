@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.grnwav.co/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Your organizations’ approach to technology may be at the heart of your success or failure. How effective are your technology systems and do they support your bu
-datePublished: '2015-11-23T16:38:09.621Z'
-dateModified: '2015-11-23T16:38:00.455Z'
+datePublished: '2015-11-23T16:45:22.919Z'
+dateModified: '2015-11-23T16:43:25.319Z'
 author: []
 title: Information technology
+sourcePath: _posts/2015-11-23-information-technology.md
+published: true
 authors: []
 publisher:
   name: grnwav.co
   domain: www.grnwav.co
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-information-technology.md
-published: true
+url: information-technology/index.html
 _context: 'http://schema.org'
 _type: Article
 
