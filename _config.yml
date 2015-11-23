@@ -1,6 +1,6 @@
 name: WAV
 favicon: null
-layout_spectrum: 0.26464
+layout_spectrum: 0.7505
 typography_spectrum: 1
 title: Green Wave Consulting
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2e4d82'
     - '#a9bad8'
   brandStrength: 0.625
-  lightness: 0.5625
-  saturation: 0.625
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 0.25
 purpose: []
