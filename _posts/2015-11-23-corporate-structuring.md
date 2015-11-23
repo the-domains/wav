@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.grnwav.co/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'These are uncertain times—fluid at best, turbulent too often. Yes, there are wonderful opportunities at home and abroad for smart and well-informed companies; b'
-datePublished: '2015-11-23T16:39:20.073Z'
-dateModified: '2015-11-23T16:39:11.623Z'
+datePublished: '2015-11-23T19:05:55.170Z'
+dateModified: '2015-11-23T19:05:52.314Z'
 author: []
 title: Corporate Structuring
+sourcePath: _posts/2015-11-23-corporate-structuring.md
+published: true
 authors: []
 publisher:
   name: grnwav.co
   domain: www.grnwav.co
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-corporate-structuring.md
-published: true
+url: corporate-structuring/index.html
 _context: 'http://schema.org'
 _type: Article
 
