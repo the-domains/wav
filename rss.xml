@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Green Wave Consulting]]></title>
-        <description><![CDATA[Green Wave Consulting]]></description>
+        <title><![CDATA[WAV]]></title>
+        <description><![CDATA[WAV]]></description>
         <link>https://thegrid.ai/wav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 03:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 20:14:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Strategy]]></title>
@@ -47,6 +47,13 @@
             <link>https://thegrid.ai/wav/information-technology/index.html</link>
             <guid isPermaLink="false">81181800-ff6a-4f41-ad79-42ceba11f607</guid>
             <pubDate>Mon, 23 Nov 2015 19:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Brutally Honest Success Lessons from Kevin O'Leary of Shark Tank]]></title>
+            <description><![CDATA[<article><h1>10 Brutally Honest Success Lessons from Kevin O'Leary of Shark Tank</h1><p>Kevin O'Leary is a Canadian born entrepreneur and TV personality who rose to prominence in the business world after his software company sold to Mattel for $3.65 Billion in 1999. He is best known for his no-nonsense and often blunt criticism of aspiring entrepreneurs and startups on ABC's Shark Tank.</p><img src="http://addicted2success.com/wp-content/uploads/2015/12/Kevin-OLeary.jpg"></article>]]></description>
+            <link>http://addicted2success.com/success-advice/10-brutally-honest-success-lessons-from-kevin-oleary-of-shark-tank/</link>
+            <guid isPermaLink="false">01f46080-3a48-4ad6-ae58-54af7377a77c</guid>
+            <pubDate>Wed, 16 Dec 2015 20:14:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
