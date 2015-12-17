@@ -4,7 +4,7 @@
         <description><![CDATA[WAV]]></description>
         <link>https://thegrid.ai/wav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 15:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:04:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WAV]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wav/wav/index.html</link>
             <guid isPermaLink="false">ee5e7412-20f4-4ab1-821c-9d3df2049bf6</guid>
             <pubDate>Thu, 17 Dec 2015 15:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>957 Discovery Circle NE Unit#103 Issaquah, WA 98029 </p>]]></description>
+            <link>http://www.grnwav.co/</link>
+            <guid isPermaLink="false">1f08a651-1a37-4463-9a97-0f18dcce1438</guid>
+            <pubDate>Thu, 17 Dec 2015 17:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FI.co: Show, Don't Tell Your Startup Pitch To Investors]]></title>
