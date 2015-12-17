@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WAV]]></title>
-        <description><![CDATA[WAV]]></description>
+        <title><![CDATA[Green Wave Consulting]]></title>
+        <description><![CDATA[Green Wave Consulting]]></description>
         <link>https://thegrid.ai/wav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 17:20:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WAV]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wav/wav/index.html</link>
             <guid isPermaLink="false">ee5e7412-20f4-4ab1-821c-9d3df2049bf6</guid>
             <pubDate>Thu, 17 Dec 2015 15:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Know What MVP Is? You Need To]]></title>
+            <description><![CDATA[<article><h1>Know What MVP Is? You Need To</h1><p>If you spend little time in the business and startup world, you may be excused for thinking MVP stands for most valuable player. But those three letters have a different meaning when it comes to innovation, business creation, and product launch. In this universe, MVP means minimally viable product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e818b68c049049dd81f8dba32477a5c09f01ca8.jpg"></article>]]></description>
+            <link>http://www.inc.com/adam-fridman/5-reasons-why-utilizing-mvp-is-everything.html</link>
+            <guid isPermaLink="false">7dfaade6-0834-4977-8505-c985671ffc78</guid>
+            <pubDate>Thu, 17 Dec 2015 17:19:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Create a Positioning Statement That Stands Out]]></title>
