@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.grnwav.co/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "957 Discovery Circle NE Unit#103 Issaquah, WA 98029 Shane@GrnWav.co  WHO ARE WE? WHAT DO WE DO?  Green Wave is here to help you and your company.\_ We team with "
-datePublished: '2015-12-18T14:12:45.804Z'
-dateModified: '2015-12-18T14:12:36.393Z'
+datePublished: '2015-12-18T14:18:15.139Z'
+dateModified: '2015-12-18T14:17:59.879Z'
 author: []
-title: ''
+title: Contact Us
+sourcePath: _posts/2015-12-17-957-discovery-circle-ne-unit103-issaquah-wa-98029-shanegr.md
+published: true
 authors: []
 publisher:
   name: grnwav.co
   domain: www.grnwav.co
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-957-discovery-circle-ne-unit103-issaquah-wa-98029-shanegr.md
-published: true
+url: contact-us/index.html
 _context: 'http://schema.org'
 _type: Article
 
