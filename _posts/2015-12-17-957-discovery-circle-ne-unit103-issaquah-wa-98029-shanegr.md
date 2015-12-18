@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.grnwav.co/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "957 Discovery Circle NE Unit#103 Issaquah, WA 98029 Shane@GrnWav.co  WHO ARE WE? WHAT DO WE DO?  Green Wave is here to help you and your company.\_ We team with "
-datePublished: '2015-12-17T17:05:29.241Z'
-dateModified: '2015-12-17T17:05:22.877Z'
+datePublished: '2015-12-18T14:12:45.804Z'
+dateModified: '2015-12-18T14:12:36.393Z'
 author: []
 title: ''
 authors: []
