@@ -6,10 +6,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: '957 Discovery Circle NE Unit#103 Issaquah, WA 98029 Shane@GrnWav.co  '
-datePublished: '2015-12-18T14:20:33.793Z'
-dateModified: '2015-12-18T14:20:31.114Z'
+datePublished: '2015-12-18T15:25:55.134Z'
+dateModified: '2015-12-18T15:25:45.820Z'
 author: []
-title: Contact Us
+title: Contact Info
 sourcePath: _posts/2015-12-17-957-discovery-circle-ne-unit103-issaquah-wa-98029-shanegr.md
 published: true
 authors: []
@@ -28,3 +28,5 @@ _type: Article
 Shane@GrnWav.co 
 
 425.802.5252
+
+https://www.facebook.com/grnwav/?ref=hl
