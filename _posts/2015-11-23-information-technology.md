@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Your organizations’ approach to technology may be at the heart of your success or failure. How effective are your technology systems and do they support your bu
-datePublished: '2015-12-30T15:33:53.065Z'
-dateModified: '2015-12-30T15:33:50.042Z'
+datePublished: '2015-12-30T15:57:33.701Z'
+dateModified: '2015-12-30T15:57:29.314Z'
 author: []
 title: Technology
 sourcePath: _posts/2015-11-23-information-technology.md
