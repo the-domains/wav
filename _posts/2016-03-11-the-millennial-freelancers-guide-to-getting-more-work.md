@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'JON SIMMONS, MONSTER'
-datePublished: '2016-03-11T15:19:55.898Z'
-dateModified: '2016-03-11T15:19:41.525Z'
+datePublished: '2016-03-11T15:22:09.195Z'
+dateModified: '2016-03-11T15:20:04.508Z'
 title: "The Millennial Freelancer's Guide To Getting More Work"
 author: []
+sourcePath: _posts/2016-03-11-the-millennial-freelancers-guide-to-getting-more-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-the-millennial-freelancers-guide-to-getting-more-work.md
-published: true
 url: the-millennial-freelancers-guide-to-getting-more-work/index.html
 _type: Article
 
